@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![logo](logo.png)
 
-# Kirby
+# Griffin
 
 A Nintendo Character
 
